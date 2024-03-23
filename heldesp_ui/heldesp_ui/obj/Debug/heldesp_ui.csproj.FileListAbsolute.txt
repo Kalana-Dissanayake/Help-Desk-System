@@ -1,0 +1,16 @@
+C:\Users\Dell\Documents\HND\Assignments\DD&D\Database\heldesp_ui\heldesp_ui\bin\Debug\heldesp_ui.exe.config
+C:\Users\Dell\Documents\HND\Assignments\DD&D\Database\heldesp_ui\heldesp_ui\bin\Debug\heldesp_ui.exe
+C:\Users\Dell\Documents\HND\Assignments\DD&D\Database\heldesp_ui\heldesp_ui\bin\Debug\heldesp_ui.pdb
+C:\Users\Dell\Documents\HND\Assignments\DD&D\Database\heldesp_ui\heldesp_ui\obj\Debug\heldesp_ui.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\HND\Assignments\DD&D\Database\heldesp_ui\heldesp_ui\obj\Debug\heldesp_ui.Properties.Resources.resources
+C:\Users\Dell\Documents\HND\Assignments\DD&D\Database\heldesp_ui\heldesp_ui\obj\Debug\heldesp_ui.csproj.GenerateResource.Cache
+C:\Users\Dell\Documents\HND\Assignments\DD&D\Database\heldesp_ui\heldesp_ui\obj\Debug\heldesp_ui.exe
+C:\Users\Dell\Documents\HND\Assignments\DD&D\Database\heldesp_ui\heldesp_ui\obj\Debug\heldesp_ui.pdb
+C:\Users\Dell\Documents\HND\Assignments\DD&D\Database\heldesp_ui\heldesp_ui\obj\Debug\heldesp_ui.Form3.resources
+C:\Users\Dell\Documents\HND\Assignments\DD&D\Database\heldesp_ui\heldesp_ui\obj\Debug\heldesp_ui.Form4.resources
+C:\Users\Dell\Documents\HND\Assignments\DD&D\Database\heldesp_ui\heldesp_ui\obj\Debug\heldesp_ui.Form1.resources
+C:\Users\Dell\Documents\HND\Assignments\DD&D\Database\heldesp_ui\heldesp_ui\obj\Debug\heldesp_ui.Form2.resources
+C:\Users\Dell\Documents\HND\Assignments\DD&D\Database\heldesp_ui\heldesp_ui\obj\Debug\heldesp_ui.Form5.resources
+F:\ANC\Assignments\Database and development\heldesp_ui\heldesp_ui\bin\Debug\heldesp_ui.exe.config
+F:\ANC\Assignments\Database and development\heldesp_ui\heldesp_ui\obj\Debug\heldesp_ui.exe
+F:\ANC\Assignments\Database and development\heldesp_ui\heldesp_ui\obj\Debug\heldesp_ui.pdb
